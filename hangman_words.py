@@ -1,0 +1,1 @@
+word_list = ["python", "java", "node","developer","email","github","work","pencil","mouse","keyboard","water","smartphone","notebook","monitor","desk","table","book","black","white","blue","yellow","brown","previous","word","home"]
